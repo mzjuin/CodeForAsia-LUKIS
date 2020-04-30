@@ -19,7 +19,7 @@
     "bootstrap-vue": "^2.0.0-rc.11",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
-    "jquery": "^3.4.0",
+    "jquery": "^3.5.0",
     "msdrawboard": "^1.0.0",
     "nuxt": "^2.4.0",
     "tesseract.js": "^1.0.14",
